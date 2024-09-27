@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.402175a5.css",
+    "main.js": "/static/js/main.3caab8b1.js",
+    "static/js/511.5e64a83f.chunk.js": "/static/js/511.5e64a83f.chunk.js",
+    "static/media/stainless_steel_b.JPG": "/static/media/stainless_steel_b.7e88389f9ba5caff27aa.JPG",
+    "static/media/2.jpg": "/static/media/2.d359ef860cfa3dc99ad4.jpg",
+    "static/media/saraswati_kammal.jpg": "/static/media/saraswati_kammal.bd51fcb91fca65340d08.jpg",
+    "static/media/steel_bangle.jpg": "/static/media/steel_bangle.e76862476ac8b6e4f40a.jpg",
+    "static/media/1.jpg": "/static/media/1.6bb275b24c51271f0737.jpg",
+    "static/media/4.jpg": "/static/media/4.c940218d55e1c32c2576.jpg",
+    "static/media/3.jpg": "/static/media/3.992ec8946a12206484ac.jpg",
+    "static/media/sangriya_alloy.jpg": "/static/media/sangriya_alloy.4d6effc4aff64e224e64.jpg",
+    "static/media/traditional_jumka.jpg": "/static/media/traditional_jumka.57e9851aefa6f5ec2a22.jpg",
+    "static/media/6.jpg": "/static/media/6.012750f871eecc773ef5.jpg",
+    "static/media/saraswati_mala.jpg": "/static/media/saraswati_mala.254d817c2792e09bd373.jpg",
+    "static/media/apple_earings.jpg": "/static/media/apple_earings.0334fe92300bac202895.jpg",
+    "static/media/kemp_necklace.jpg": "/static/media/kemp_necklace.d860ed08893d41157f05.jpg",
+    "static/media/5.jpg": "/static/media/5.684217d35418d44bdbf1.jpg",
+    "static/media/dhwanilogo.png": "/static/media/dhwanilogo.7f28ddbd11edc98a517c.png",
+    "static/media/traditional_alloy.jpg": "/static/media/traditional_alloy.a6899bd853c360607939.jpg",
+    "static/media/agaja_necklace.jpg": "/static/media/agaja_necklace.ce79d73afa3d6ddc053e.jpg",
+    "static/media/saraswati_kammal_2.jpg": "/static/media/saraswati_kammal_2.57c0c308f810f6f1ca5f.jpg",
+    "static/media/peacock_jumkas.jpg": "/static/media/peacock_jumkas.2c8d5f7c2405afa39fe5.jpg",
+    "static/media/yashi_glossy_round_necklace.jpg": "/static/media/yashi_glossy_round_necklace.aa839e6c886fdeacc538.jpg",
+    "static/media/traditional_earings.jpg": "/static/media/traditional_earings.ef9014c06c06b3aadfe1.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.402175a5.css.map": "/static/css/main.402175a5.css.map",
+    "main.3caab8b1.js.map": "/static/js/main.3caab8b1.js.map",
+    "511.5e64a83f.chunk.js.map": "/static/js/511.5e64a83f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402175a5.css",
+    "static/js/main.3caab8b1.js"
+  ]
+}
